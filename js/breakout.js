@@ -114,6 +114,8 @@ function keyUp(e) {
     }
 }
 
+console.log(bricks)
+
 document.addEventListener('keydown', keyDown)
 document.addEventListener('keyup', keyUp)
 
